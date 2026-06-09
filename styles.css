@@ -581,9 +581,25 @@ a {
     padding: 3rem 1rem;
   }
 
+  .hero {
+    gap: 1.5rem;
+    padding-bottom: 2rem;
+  }
+
   .hero-panel {
-    min-height: 320px;
+    min-height: 245px;
     border-radius: 24px;
+  }
+
+  .route-card {
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    padding: 1rem;
+  }
+
+  .route-card p {
+    margin-top: 0.45rem;
   }
 
   .carousel-heading {
